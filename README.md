@@ -5,10 +5,12 @@
 
 说明：老师，由于我们对于您的作业提交要求理解的不是很得当，再原本的旧仓库中由于添加文件失当失当使得项目结构杂乱并且内容耦合，所以我们另外建立了一个新的库来储存原来整合之后的项目，因此只能将整合后的整体上传，在此感到非常抱歉，我们标明了各个人所处理的项目部分，并且附上了提交的日志截图，请老师能够原谅我们由于github使用不当给您带来的麻烦，祝您假期愉快。
 项目提交日志：
-![image](https://github.com/yitihua3sshhomework/xx.png)
-![image](https://github.com/xxx/xx.png)
-![image](https://github.com/xxx/xx.png)
-![image](https://github.com/xxx/xx.png)
+![image text](EVCO$EORA[1[[8@]`63[D_E.png)
+![image text](QQ截图20200630223548.png)
+![image text](VTGUQ$2P6D@N@`DT08EFYLC.png)
+![image text](]KPBNAUOOWVN(56}U7LK~1Z.png)
+
+
 作者liusong
 文章管理
 在老师项目基础上的添加及修改：
