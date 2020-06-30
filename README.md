@@ -45,6 +45,7 @@ list.jsp
 栏目接口CategoryRepositorya.java
 服务层层CategoryService.java
 控制层CategoryController.java
+修改了nav.tag中的“栏目管理”所指向的路径
 
 仓库地址： https://github.com/ruangg096/ssh1homework
 
