@@ -24,3 +24,23 @@ list.jsp
 旧仓库地址：https://github.com/songliu2020/yth3work.git
 在旧仓库提交日志
 
+
+
+
+作者 阮杲杲：
+在老师项目基础上的添加及修改：
+添加了
+栏目接口CategoryRepositorya.java
+服务层层CategoryService.java
+控制层CategoryController.java
+
+仓库地址： https://github.com/ruangg096/ssh1homework
+
+作者 王俊逸 
+用户登录、CURD 
+在老师的框架下写了用户的登陆，用户的增删改查 
+改了 UserController 
+改了 UserRepository 
+改了 login.jsp 
+新仓库地址：https://github.com/choa000/ythwork3.git
+
